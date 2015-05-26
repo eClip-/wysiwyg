@@ -1,0 +1,39 @@
+{
+  "name": {
+    "de": "WYSIWYG",
+    "en": "WYSIWYG"
+  },
+  "slug": "wysiwyg",
+  "version": "0.0.1-alpha.1",
+  "description": {
+    "de": "Einfacher WYSIWYG-Editor",
+    "en": "Simple WYSIWYG-Editor"
+  },
+  "contributors": [
+    {
+      "name": "Maik Hummel",
+      "email": "maik@eclip.io"
+    },
+    {
+      "name": "Nico Axtmann",
+      "email": "nico@eclip.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eClip-/wysiwyg.git"
+  },
+  "keywords": {
+    "de": [
+      "info",
+      "wysiwyg",
+      "text"
+    ],
+    "en": [
+      "info",
+      "wysiwyg",
+      "text"
+    ]
+  },
+  "author": "Maik Hummel <maik@eclip.io>"
+}
